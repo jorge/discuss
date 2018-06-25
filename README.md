@@ -2,7 +2,7 @@
 
 A simple discussion app.
 
-Credit Stephen Grider's Phoenix and Elixir (course)[https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial] on Udemy for the initial project. 
+Credit Stephen Grider's Phoenix and Elixir [course](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial) on Udemy for the initial project. 
 
 To start your Phoenix app:
 
